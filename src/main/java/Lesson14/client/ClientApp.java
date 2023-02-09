@@ -1,12 +1,10 @@
 package Lesson14.client;
 
 import Lesson14.Handler;
-import Lesson14.Sender;
 
 import java.io.*;
 import java.net.Socket;
 import java.net.UnknownHostException;
-import java.util.Scanner;
 
 public class ClientApp {
 
